@@ -1,7 +1,7 @@
 <center><h3 style="color:Tomato;">Compte rendu</h3></center>
 <h5>1- Création d'un nouveau projet SOAP nommé test1.</h5>
 <img width="956" alt="1" src="https://github.com/AyaAouad/WebService/assets/110836586/1c61f2af-aeb3-4653-82fa-c3f32f7e7cf5">
-<h5>2- Chargement du wsdl et affichage des 3 méthodes :(Convert, getCompte, listComptes).</h5>
+<h5>2- Chargement du wsdl et affichage des 3 méthodes : (Convert, getCompte, listComptes).</h5>
 <img width="957" alt="2" src="https://github.com/AyaAouad/WebService/assets/110836586/80a0a2b0-cfb5-4e01-abff-aa8e37f1dfde">
 <h5>3- Affichage du test pour la méthode Convert et envoyez la requête avec le paramètre montant.</h5>
 <img width="959" alt="3" src="https://github.com/AyaAouad/WebService/assets/110836586/d664a411-9459-4bbf-9ec5-9ce96ab7e8d0">
