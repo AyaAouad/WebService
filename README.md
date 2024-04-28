@@ -19,10 +19,5 @@
 <img width="959" alt="6" src="https://github.com/AyaAouad/WebService/assets/110836586/8b145fca-42be-43bf-a6a8-dcf33198c87d">
 <h5>6.1- Réponse de la requête pour le paramètre code et solde.</h5>
 <img width="959" alt="6-1" src="https://github.com/AyaAouad/WebService/assets/110836586/5586e139-f41a-4c7b-a786-d92e5d86939a">
-
-
-
-
-
-
-
+<h5>7- Description au format XML des Web Services en forme d'un URL.</h5>
+<img width="946" alt="7" src="https://github.com/AyaAouad/WebService/assets/110836586/f4b88d78-6b28-4ca9-9b24-70a282b4cc7d">
